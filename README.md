@@ -1,6 +1,6 @@
-- 👋 Hi, I’m KeyuLiu in NEU
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning in Northeastern University
+- 👋 Hi, I’m KeyuLiu who will graduate from Northeastern University in Dec, 2021
+- 👀 I’m interested in Java, Spring-boot/cloud, containter and cloud
+- 🌱 I’m currently learning as an internship in Alibaba cloud, elastic computing department.
 - 💞️ I’m looking to collaborate on any open-source project related to the development of cloud native web applciation or microservices.
 - 📫 Send me email - liu.keyu@northeastern.edu
 - 

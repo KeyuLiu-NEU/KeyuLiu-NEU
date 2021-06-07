@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud-Native Apllication, Microservice or serveless development and Basic implementation of Cloud platform.
 - 🌱 I’m currently working as an internship in Alibaba cloud, elastic computing department.
 - 💞️ I’m looking to collaborate on any open-source project related to the development of cloud native web applciation or microservices.
-- 📫 Send me email - liu.keyu@northeastern.edu
+- 📫 Send me email - liu.keyuneu@gmail.com
 - 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=KeyuLiu-NEU&hide=stars,issues&show_icons=true&theme=synthwave)
 <!---

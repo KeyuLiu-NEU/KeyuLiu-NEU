@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KeyuLiu who will graduate from Northeastern University in Dec, 2021
 - 👀 I’m interested in Cloud-Native Apllication, Microservice or serveless development and Basic implementation of Cloud platform.
-- 🌱 I’m currently working as an internship in Alibaba cloud, elastic computing department.
+- 🌱 I’m currently working as a software engineer in AWS cloud, elastic container registry.
 - 💞️ I’m looking to collaborate on any open-source project related to my hobbies.
 - 📫 Send me email - liu.keyuneu@gmail.com
 - Nice to have you here in this revolution century of Internet
